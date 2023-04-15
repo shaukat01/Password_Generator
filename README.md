@@ -6,7 +6,10 @@ The user has the option to select the length of the password and configure what 
 Select password length
 Configure what characters and symbols to include in the password
 Generate unique and secure passwords
-Get to know whether your generated Password is strong (red), an average (grey) or a week(red)
+Copy your generated Password to the clipboard
+
+
+
 
 
 
