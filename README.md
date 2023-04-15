@@ -12,6 +12,7 @@ Copy your generated Password to the clipboard
 Netlify
 
 #visit & Short URL :
+https://passw-gener.netlify.app/
 
 #Demo : 
 ![Screenshot (99)](https://user-images.githubusercontent.com/86542840/232194854-903c5415-ee70-480e-b60f-f21fcd3f9afa.png)
