@@ -8,6 +8,11 @@ Configure what characters and symbols to include in the password
 Generate unique and secure passwords
 Copy your generated Password to the clipboard
 
+#App Hosted on : 
+Netlify
+
+#visit & Short URL :
+
 #Demo : 
 ![Screenshot (99)](https://user-images.githubusercontent.com/86542840/232194854-903c5415-ee70-480e-b60f-f21fcd3f9afa.png)
 
